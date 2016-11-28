@@ -1,7 +1,6 @@
-#Flatfy - Theme | New Version!
+#SECURE OUR STYLE
 
-##Responsive Mobile & Flat Design 
-Own Carousel & Bootstrap Framework CSS 
-Font Icon Svg & Animate
-
-Theme made by [Andrea Galanti](http://www.andreagalanti.it/flatfy.php)
+##Mock Website Design for an Innovative, Secure & Stylish Phone Case
+Using HTML/CSS & 
+the Flatify Bootstrap Design 
+made by [Andrea Galanti](http://www.andreagalanti.it/flatfy.php)
